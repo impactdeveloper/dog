@@ -31,6 +31,18 @@ class BreedImageSeeder extends Seeder
             'breed_id' => 1,
             'image' => 'retrievers-5.jpg'
         ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 1,
+            'image' => 'retrievers-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 1,
+            'image' => 'retrievers-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 1,
+            'image' => 'retrievers-8.jpg'
+        ]);
 
         DB::table('breed_images')->insert([
             'breed_id' => 2,
@@ -47,6 +59,22 @@ class BreedImageSeeder extends Seeder
         DB::table('breed_images')->insert([
             'breed_id' => 2,
             'image' => 'french-Bulldog-4.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 2,
+            'image' => 'french-Bulldog-5.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 2,
+            'image' => 'french-Bulldog-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 2,
+            'image' => 'french-Bulldog-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 2,
+            'image' => 'french-Bulldog-8.jpg'
         ]);
 
         DB::table('breed_images')->insert([
@@ -69,6 +97,18 @@ class BreedImageSeeder extends Seeder
             'breed_id' => 3,
             'image' => 'german-shepherd-5.jpg'
         ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 3,
+            'image' => 'german-shepherd-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 3,
+            'image' => 'german-shepherd-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 3,
+            'image' => 'german-shepherd-8.jpg'
+        ]);
 
         DB::table('breed_images')->insert([
             'breed_id' => 4,
@@ -89,6 +129,18 @@ class BreedImageSeeder extends Seeder
         DB::table('breed_images')->insert([
             'breed_id' => 4,
             'image' => 'poodles-5.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 4,
+            'image' => 'poodles-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 4,
+            'image' => 'poodles-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 4,
+            'image' => 'poodles-8.jpg'
         ]);
 
 
@@ -112,6 +164,18 @@ class BreedImageSeeder extends Seeder
             'breed_id' => 5,
             'image' => 'bulldog-5.jpg'
         ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 5,
+            'image' => 'bulldog-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 5,
+            'image' => 'bulldog-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 5,
+            'image' => 'bulldog-8.jpg'
+        ]);
 
 
         DB::table('breed_images')->insert([
@@ -129,6 +193,22 @@ class BreedImageSeeder extends Seeder
         DB::table('breed_images')->insert([
             'breed_id' => 6,
             'image' => 'rottweilers-4.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 6,
+            'image' => 'rottweilers-5.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 6,
+            'image' => 'rottweilers-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 6,
+            'image' => 'rottweilers-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 6,
+            'image' => 'rottweilers-8.jpg'
         ]);
 
         DB::table('breed_images')->insert([
@@ -151,6 +231,18 @@ class BreedImageSeeder extends Seeder
             'breed_id' => 7,
             'image' => 'dachshunds-5.jpg'
         ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 7,
+            'image' => 'dachshunds-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 7,
+            'image' => 'dachshunds-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 7,
+            'image' => 'dachshunds-8.jpg'
+        ]);
 
         DB::table('breed_images')->insert([
             'breed_id' => 8,
@@ -171,6 +263,18 @@ class BreedImageSeeder extends Seeder
         DB::table('breed_images')->insert([
             'breed_id' => 8,
             'image' => 'siberian-husky-5.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 8,
+            'image' => 'siberian-husky-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 8,
+            'image' => 'siberian-husky-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 8,
+            'image' => 'siberian-husky-8.jpg'
         ]);
 
 
@@ -194,6 +298,18 @@ class BreedImageSeeder extends Seeder
             'breed_id' => 9,
             'image' => 'pwc-5.jpg'
         ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 9,
+            'image' => 'pwc-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 9,
+            'image' => 'pwc-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 9,
+            'image' => 'pwc-8.jpg'
+        ]);
 
 
         DB::table('breed_images')->insert([
@@ -215,6 +331,18 @@ class BreedImageSeeder extends Seeder
         DB::table('breed_images')->insert([
             'breed_id' => 10,
             'image' => 'yorkshire-terriers-5.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 10,
+            'image' => 'yorkshire-terriers-6.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 10,
+            'image' => 'yorkshire-terriers-7.jpg'
+        ]);
+        DB::table('breed_images')->insert([
+            'breed_id' => 10,
+            'image' => 'yorkshire-terriers-8.jpg'
         ]);
     }
 }
